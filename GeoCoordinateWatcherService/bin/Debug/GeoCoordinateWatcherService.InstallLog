@@ -1,0 +1,38 @@
+﻿アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe
+サービス 'GeoCoordinateWatcher' をインストールしています...
+サービス 'GeoCoordinateWatcher' は正常にインストールされました。
+EventLog ソース GeoCoordinateWatcher をログ Application に作成しています...
+アセンブリ 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog
+   assemblypath = C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoCoordinateWatcherService", "GeoCoordinateWatcherService\GeoCoordinateWatcherService.csproj", "{43927638-418B-4D23-8D4D-019148BEE5CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43927638-418B-4D23-8D4D-019148BEE5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43927638-418B-4D23-8D4D-019148BEE5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43927638-418B-4D23-8D4D-019148BEE5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43927638-418B-4D23-8D4D-019148BEE5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2306802-7A1C-42CE-97AA-7D64E22F909B}
+	EndGlobalSection
+EndGlobal

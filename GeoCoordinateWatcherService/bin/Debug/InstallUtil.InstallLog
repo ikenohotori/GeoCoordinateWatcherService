@@ -1,0 +1,55 @@
+﻿
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.ArgumentOutOfRangeException: インデックスおよび長さは文字列内の場所を参照しなければなりません。
+パラメーター名:length
+
+インストールのロールバックを開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+インストール段階で例外が発生しました。
+System.InvalidOperationException: ユーザーは実行可能ファイル 'C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe' 内のサービスのインストールを取り消しました。
+
+インストールのロールバックを開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+ロールバックの段階が正常に完了しました。
+
+トランザクション インストールが完了しました。
+
+トランザクションのインストールを実行中です。
+
+インストール段階を開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+インストール段階が正常に完了しました。コミット段階を開始しています。
+C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.exe アセンブリの進行状態については、ログ ファイルの内容を参照してください。
+ファイルは C:\Users\ikeno\OneDrive\Documents\develop\CSharp\GeoCoordinateWatcherService\GeoCoordinateWatcherService\bin\Debug\GeoCoordinateWatcherService.InstallLog にあります。
+
+コミット段階が正常に終了しました。
+
+トランザクション インストールが完了しました。
